@@ -1,0 +1,10 @@
+.main {
+    background-image: url('https://assets.ccbp.in/frontend/dynamic-webapps/library-management-bg.png');
+    background-size: cover;
+}
+
+.noResults {
+    font-size: 38px;
+    text-align: center;
+    margin-top: 18px;
+}
